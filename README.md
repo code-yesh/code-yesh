@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
 <a href="https://x.com/Github_Devloper" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  /></a>
 <a href="https://leetcode.com/Code_Yesh/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="leetcode logo"  /></a>
-<a href="https://codeforces.com/profile/your-codeforces-handle" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces logo"  /></a>
+<a href="https://codeforces.com/profile/code_yesh" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces logo"  /></a>
 </p>
 
 </div>
